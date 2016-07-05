@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectName>ffmpeg_test1</ProjectName>
+    <ProjectName>tutorial01</ProjectName>
     <ProjectGuid>{993A9727-A2B2-4BE3-9802-E7BD30047482}</ProjectGuid>
     <RootNamespace>ffmpeg_test1</RootNamespace>
   </PropertyGroup>
